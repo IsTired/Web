@@ -1,0 +1,155 @@
+body {
+    background-color: #000000;
+} #id01 {
+    color: white;
+
+    font-family: 'Noto Sans JP', sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} #id02 {
+    color: white;
+
+    font-family: 'Open Sans', sans-serif;
+
+    width: 500px;
+
+    position: relative;
+    left: 20%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} #id02-1 {
+    font-weight: bold;
+} #id02-2 {
+    font-weight: 0;
+} #id03 {
+    color: white;
+
+    width: 500;
+
+    font-family: 'Open Sans', sans-serif;
+
+} #id03-1 {
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} #id03-2 {
+    position: relative;
+
+    left: 32%;
+    top: 20px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id03-3 {
+    position: relative;
+
+    left: 40%;
+    top: -20px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id03-4 {
+    position: relative;
+
+    left: 55%;
+    top: -60px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id03-5 {
+    position: relative;
+
+    left: 62.7%;
+    top: -100px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id03-6 {
+    position: relative;
+
+    left: 47.5%;
+    top: -140px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id04 {
+    color: white;
+
+    width: 500;
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} #id04-1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 157px;
+} #id04-2 {
+    position: relative;
+    top: 110px;
+    left: -220px;
+
+    border: 1px;
+    border-radius: 10px;
+} #id04-3 {
+    border: 1px;
+    border-radius: 10px;
+
+    position: relative;
+
+    top: 10px;
+
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+    right: -51%;
+} #id05 {
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bold;
+
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    top: 200px;
+} #id06 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+    text-align: center;
+
+    position: relative;
+    left: 50%;
+
+    width: 500px;
+
+    top: 225px;
+} #id06-1 {
+    position: relative;
+    
+    right: 50%;
+}
+
+#brk {
+    width: 20px;
+}
+#bottom {
+    height: 300px;
+}
